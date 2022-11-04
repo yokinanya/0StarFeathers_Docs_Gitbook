@@ -45,3 +45,7 @@
 - [方舟寻访分析](0star_feathers/nonebot_plugin_arkrecord.md)
 - [BAWiki](0star_feathers/nonebot_plugin_bawiki.md)
 - [直链提取](0star_feathers/nonebot_plugin_directlinker.md)
+
+## 更新日志
+更新帮助文档
+——2022.11.5
