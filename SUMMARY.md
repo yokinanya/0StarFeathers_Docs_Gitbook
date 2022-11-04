@@ -1,7 +1,7 @@
 # Table of contents
 
 * [铃星羽文档](README.md)
-* OmgeaMiya插件帮助
+* OmgeaMiya插件
   * [公告](omega_miya/announce.md)
   * [自动群打卡](omega_miya/auto_group_sign.md)
   * [B站动态订阅](omega_miya/bilibili_dynamic_monitor.md)
@@ -38,3 +38,11 @@
   * [今天吃啥](omega_miya/what_to_eat.md)
   * [自动问答](omega_miya/word_bank.md)
   * [自动审轴姬](omega_miya/zhoushen_hime.md)
+* 其它插件
+  * [Apex信息查询](0star_feathers/apex_helper.md)
+  * [B站装扮下载](0star_feathers/bili_suit.md)
+  * [回声洞](0star_feathers/cave.md)
+  * [Minecraft服务器状态查询](0star_feathers/minecraft_server_state.md)
+  * [方舟寻访分析](0star_feathers/nonebot_plugin_arkrecord.md)
+  * [BAWiki](0star_feathers/nonebot_plugin_bawiki.md)
+  * [直链提取](0star_feathers/nonebot_plugin_directlinker.md)

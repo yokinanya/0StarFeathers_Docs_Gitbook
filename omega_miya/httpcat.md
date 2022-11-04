@@ -3,7 +3,7 @@
 
 ---
 ## 使用方法
-`#HttpCat <code>`
+\#HttpCat <code>
 
 ---
 插件作者：Ailitonia

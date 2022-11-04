@@ -3,10 +3,8 @@
 
 ---
 ## 使用方法
-```
 仅限群聊中群管理员使用:
-#AntiFlash <ON|OFF>
-```
+\#AntiFlash <ON|OFF>
 
 ---
 插件作者：Ailitonia
