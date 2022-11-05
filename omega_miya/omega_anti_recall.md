@@ -3,8 +3,8 @@
 
 ---
 ## 使用方法
-仅限群聊中群管理员使用:
-\#AntiRecall <ON|OFF>
+仅限群聊中群管理员使用:<br/>
+\#AntiRecall <ON|OFF><br/>
 
 ---
 插件作者：Ailitonia

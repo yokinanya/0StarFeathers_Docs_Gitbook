@@ -3,8 +3,8 @@
 
 ---
 ## 使用方法
-\#nh search [tag]
-\#nh download [id]
+\#nh search [tag]<br/>
+\#nh download [id]<br/>
 
 ---
 插件作者：Ailitonia

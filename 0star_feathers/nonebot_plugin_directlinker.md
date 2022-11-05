@@ -3,8 +3,8 @@
 
 ---
 ## 使用方法
--n | --name     文件名*
-\#link -n 文件名.exe
+-n | --name     文件名*<br/>
+\#link -n 文件名.exe<br/>
 
 ---
 插件作者：ninthseason
