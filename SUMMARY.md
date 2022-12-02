@@ -47,3 +47,4 @@
   * [方舟寻访分析](0star\_feathers/nonebot\_plugin\_arkrecord.md)
   * [BAWiki](0star\_feathers/nonebot\_plugin\_bawiki.md)
   * [直链提取](0star\_feathers/nonebot\_plugin\_directlinker.md)
+  * [推特推送](0star\_feathers/nonebot\_plugin\_nonebot_twitter_guild.md)
